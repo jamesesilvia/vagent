@@ -1,0 +1,29 @@
+{
+  "name": "vagent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/karma/bin/karma start --single-run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jamesesilvia/vagent.git"
+  },
+  "keywords": [
+    "docker",
+    "angular"
+  ],
+  "author": "James Silvia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamesesilvia/vagent/issues"
+  },
+  "homepage": "https://github.com/jamesesilvia/vagent#readme",
+  "dependencies": {
+    "compression": "^1.6.0",
+    "errorhandler": "^1.4.2",
+    "express": "^4.13.3",
+    "morgan": "^1.6.1"
+  }
+}

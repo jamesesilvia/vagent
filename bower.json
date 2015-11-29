@@ -1,0 +1,27 @@
+{
+  "name": "vagent",
+  "version": "1.0.0",
+  "description": "Virtual Agent",
+  "authors": [
+    "James Silvia"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "docker",
+    "angular"
+  ],
+  "homepage": "https://github.com/jamesesilvia/vagent.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "~0.2.15",
+    "bootstrap": "~3.3.6",
+    "angular-bootstrap": "~0.14.3",
+    "angular": "~1.4.8"
+  }
+}
